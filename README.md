@@ -1,3 +1,3 @@
 # Maze
 github test
-Hello from my terminal
+This maze starts with a regular maze than goes to an obstical course that the ball goes through.
